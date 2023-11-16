@@ -1,0 +1,14 @@
+C:\Users\nikoc\OneDrive\Рабочий стол\Курси\Основи С#\Sana02\While1\obj\Debug\net6.0\While1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikoc\OneDrive\Рабочий стол\Курси\Основи С#\Sana02\While1\obj\Debug\net6.0\While1.AssemblyInfoInputs.cache
+C:\Users\nikoc\OneDrive\Рабочий стол\Курси\Основи С#\Sana02\While1\obj\Debug\net6.0\While1.AssemblyInfo.cs
+C:\Users\nikoc\OneDrive\Рабочий стол\Курси\Основи С#\Sana02\While1\obj\Debug\net6.0\While1.csproj.CoreCompileInputs.cache
+C:\Users\nikoc\OneDrive\Рабочий стол\Курси\Основи С#\Sana02\While1\bin\Debug\net6.0\While1.exe
+C:\Users\nikoc\OneDrive\Рабочий стол\Курси\Основи С#\Sana02\While1\bin\Debug\net6.0\While1.deps.json
+C:\Users\nikoc\OneDrive\Рабочий стол\Курси\Основи С#\Sana02\While1\bin\Debug\net6.0\While1.runtimeconfig.json
+C:\Users\nikoc\OneDrive\Рабочий стол\Курси\Основи С#\Sana02\While1\bin\Debug\net6.0\While1.dll
+C:\Users\nikoc\OneDrive\Рабочий стол\Курси\Основи С#\Sana02\While1\bin\Debug\net6.0\While1.pdb
+C:\Users\nikoc\OneDrive\Рабочий стол\Курси\Основи С#\Sana02\While1\obj\Debug\net6.0\While1.dll
+C:\Users\nikoc\OneDrive\Рабочий стол\Курси\Основи С#\Sana02\While1\obj\Debug\net6.0\refint\While1.dll
+C:\Users\nikoc\OneDrive\Рабочий стол\Курси\Основи С#\Sana02\While1\obj\Debug\net6.0\While1.pdb
+C:\Users\nikoc\OneDrive\Рабочий стол\Курси\Основи С#\Sana02\While1\obj\Debug\net6.0\While1.genruntimeconfig.cache
+C:\Users\nikoc\OneDrive\Рабочий стол\Курси\Основи С#\Sana02\While1\obj\Debug\net6.0\ref\While1.dll
