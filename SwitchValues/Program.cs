@@ -15,4 +15,11 @@ switch (choice)
     case 9: Console.WriteLine("Девь'ять"); break;
     default: Console.WriteLine("Невірний діапазон значень"); break;
 
+<<<<<<< HEAD
 }
+=======
+}
+
+
+
+>>>>>>> ef233dbdc4a10521d77a37bba0a8cd190b097d57

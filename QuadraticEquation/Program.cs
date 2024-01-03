@@ -59,4 +59,8 @@ else
         x2 = (-b - System.Math.Sqrt(d)) / (2 * a);
         Console.WriteLine($"X1={x1}, X2={x2}");
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ef233dbdc4a10521d77a37bba0a8cd190b097d57
